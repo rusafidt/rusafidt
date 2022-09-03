@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rusafid Ahmed
 - 👀 I’m interested in Programming and Gaming
-- 🌱 I’m currently pursuing under graduate in Computer Science and Engineering
+- 🌱 I’ve pursued my graduateion in Computer Science and Engineering
 - 📫 How to reach me? Text me anywhere :)
 
 <!---
