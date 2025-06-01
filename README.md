@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rusafid Ahmed
-- 👀 I’m interested in Programming and Gaming
-- 🌱 I’ve currently pursuing post-grad in Artificial Intelligence and Machine Learning (MSc) and pursued my under-grad in Computer Science and Engineering(BTech)
+- 👀 I’m interested in AI Developing and Programming 
+- 🌱 I’m currently pursuing post-grad in Artificial Intelligence and Machine Learning (MSc) and pursued my under-grad in Computer Science and Engineering(BTech)
 - 📫 How to reach me? Text me anywhere :)
 
 <!---
