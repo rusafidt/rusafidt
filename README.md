@@ -29,5 +29,5 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ---
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/rusafid-ahmed/)  
-- ✉️ [Email](#rusafidt@yahoo.com)  
+- 💼 [LinkedIn](#) (https://www.linkedin.com/in/rusafid-ahmed/)
+- ✉️ [Email](#)  rusafidt@yahoo.com
