@@ -1,9 +1,33 @@
-- 👋 Hi, I’m Rusafid Ahamed
-- 👀 I’m interested in AI Developing and Programming 
-- 🌱 I’m currently pursuing post-grad in Artificial Intelligence and Machine Learning (MSc) and pursued my under-grad in Computer Science and Engineering(BTech)
-- 📫 How to reach me? Text me anywhere :)
+# 👋 Hi, I'm Rusafid Ahamed  
 
-<!---
-rusafidt/rusafidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **AI Engineer | MSc in Artificial Intelligence & Machine Learning**  
+Specialized in **NLP, LLMs, and NER** with hands-on experience building intelligent systems and scalable backends.  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Python, JavaScript , Java, Angular, TypeScript, C, C++ 
+**AI/ML:** LLMs (Ollama, LangChain), NLP, Named Entity Recognition (NER), Machine Learning, Deep Learning  
+**Frameworks:** FastAPI, Angular  
+**Databases:** MongoDB  
+**Tools:** Docker, Kubernetes, Git  
+
+---
+
+### 🌟 Featured Projects  
+- [**FFT Spectrogram**](https://github.com/rusafidt/FFT_Spectrogram) – Audio signal processing & visualization with Fourier transforms.  
+- [**Tense Determination (Hindi)**](https://github.com/rusafidt/Tense_Determination_Hindi) – NLP project for tense classification.  
+- [**Mini Projects**](https://github.com/rusafidt/Mini-Projects) – Collection of Python-based mini projects.  
+
+---
+
+### 📌 Current Focus  
+🔹 Advancing in **LLM applications** for real-world tasks.  
+🔹 Researching and building systems with **NLP & NER**.  
+🔹 Exploring **AI-driven automation** and **intelligent backend systems**.  
+
+---
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](#)  
+- ✉️ [Email](#)  
