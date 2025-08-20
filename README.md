@@ -15,9 +15,10 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ---
 
 ### 🌟 Featured Projects  
+- [**Multi-Document Q&A Assistant**](https://github.com/rusafidt/Multi-Document-Q-A-Assistant) – Assistant for answering queries across multiple documents.  
+- [**LLM Powered Code Explainer**](https://github.com/rusafidt/LLM_Powered_Code_Explainer) – Tool that explains code using large language models.  
 - [**FFT Spectrogram**](https://github.com/rusafidt/FFT_Spectrogram) – Audio signal processing & visualization with Fourier transforms.  
 - [**Tense Determination (Hindi)**](https://github.com/rusafidt/Tense_Determination_Hindi) – NLP project for tense classification.  
-- [**Mini Projects**](https://github.com/rusafidt/Mini-Projects) – Collection of Python-based mini projects.  
 
 ---
 
