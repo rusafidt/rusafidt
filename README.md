@@ -6,9 +6,9 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** Python, JavaScript , Java, Angular, TypeScript, C, C++  
+**Languages:** Python(Proficient), JavaScript , Java, Angular, TypeScript, C, C++  
 **AI/ML:** LLMs (Ollama, LangChain), NLP, Named Entity Recognition (NER), Machine Learning, Deep Learning  
-**Frameworks:** FastAPI, Angular  
+**Frameworks:** FastAPI, Angular, Scikit, PyTorch  
 **Databases:** MongoDB  
 **Tools:** Docker, Kubernetes, Git  
 
