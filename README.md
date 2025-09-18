@@ -24,7 +24,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 
 ### 📌 Current Focus  
 🔹 Advancing in **LLM applications** for real-world tasks.  
-🔹 Researching and building systems with **NLP & NER**.  
+🔹 Researching and building systems with **NLP & NER** as well **Agentic Systems**.  
 🔹 Exploring **AI-driven automation** and **intelligent backend systems**.  
 
 ---
