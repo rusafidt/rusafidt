@@ -9,7 +9,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 **Languages:** Python(Proficient), JavaScript , Java, Angular, TypeScript, C, C++, React, Next.js  
 **AI/ML:** LLMs (Ollama, LangChain), NLP, Named Entity Recognition (NER), Machine Learning, Deep Learning  
 **Frameworks:** FastAPI, Angular, Scikit, PyTorch  
-**Databases:** MongoDB  
+**Databases:** MongoDB, MySQL, NoSQL  
 **Tools:** Docker, Kubernetes, Git  
 
 ---
