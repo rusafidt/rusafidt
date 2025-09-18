@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rusafid Ahamed  
 
-💡 **AI Engineer | MSc in Artificial Intelligence & Machine Learning**  
+💡 **AI Enthusiast | MSc in Artificial Intelligence & Machine Learning**  
 Specialized in **NLP, LLMs, and NER** with hands-on experience building intelligent systems and scalable backends.  
 
 ---
