@@ -16,7 +16,9 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ### 🌟 Featured Projects  
 - [**Inner Echo (Offline AI Chatbot)**](https://github.com/rusafidt/InnerEcho-Offline-AI-Therapy-Chatbot) – Privacy-first therapy chatbot using Ollama, FastAPI, and memory store for context-aware conversations.  
 - [**Multi-Document Q&A Assistant**](https://github.com/rusafidt/Multi-Document-Q-A-Assistant) – Assistant for answering queries across multiple documents.  
-- [**LLM Powered Code Explainer**](https://github.com/rusafidt/LLM_Powered_Code_Explainer) – Tool that explains code using large language models.  
+- [**AI-Sentiment-Analyzer**](https://github.com/rusafidt/Sentiment-Analyzer) - Lightweight AI sentiment analyzer that classifies text as positive, negative, or neutral.  
+- [**AI-Powered-To-Do-List**](https://github.com/rusafidt/AI-Powered-To-Do-List) - AI-powered to-do list that helps you organize tasks and boost productivity.  
+- [**LLM Powered Code Explainer**](https://github.com/rusafidt/LLM-Powered-Code-Reviewer)) – Tool that explains code using large language models.  
 - [**FFT Spectrogram**](https://github.com/rusafidt/FFT_Spectrogram) – Audio signal processing & visualization with Fourier transforms.  
 - [**Tense Determination (Hindi)**](https://github.com/rusafidt/Tense_Determination_Hindi) – NLP project for tense classification.  
 
