@@ -14,6 +14,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 
 ---
 ### 🌟 Featured Projects  
+- [**AI-Word-Predictor**](https://github.com/rusafidt/AI-Word-Predictor) – Predicts the next possible words using NLP and probabilistic language modeling.  
 - [**Inner Echo (Offline AI Chatbot)**](https://github.com/rusafidt/InnerEcho-Offline-AI-Therapy-Chatbot) – Privacy-first therapy chatbot using Ollama, FastAPI, and memory store for context-aware conversations.  
 - [**Multi-Document Q&A Assistant**](https://github.com/rusafidt/Multi-Document-Q-A-Assistant) – Assistant for answering queries across multiple documents.  
 - [**AI-Sentiment-Analyzer**](https://github.com/rusafidt/Sentiment-Analyzer) - Lightweight AI sentiment analyzer that classifies text as positive, negative, or neutral.  
