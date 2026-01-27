@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Rusafid Ahamed  
 
+🌐 **Portfolio:** [**rfdcruze.me**](https://rfdcruze.me/)
+
+
 💡 **AI Enthusiast | MSc in Artificial Intelligence & Machine Learning**  
 Specialized in **NLP, LLMs, and NER** with hands-on experience building intelligent systems and scalable backends.  
 
@@ -14,7 +17,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 
 ---
 ### 🌟 Featured Projects  
-- [**Machine Learning–Based Land Price Prediction**](https://github.com/rusafidt/Land-Price-Prediction-ML) - A machine learning project that estimates land prices using Random Forest regression and real-world location data.
+- [**Machine Learning–Based Land Price Prediction**](https://github.com/rusafidt/Land-Price-Prediction-ML) - A machine learning project that estimates land prices using Random Forest regression and real-world location data.   
 - [**Multitool-Agentic-QA-Service**](https://github.com/rusafidt/Multitool-Agentic-QA-Service) – A compact, production-ready agentic QA service showcasing explicit tool choice, parallel execution, robustness, and cited, grounded answers.    
 - [**AI-Word-Predictor**](https://github.com/rusafidt/AI-Word-Predictor) – Predicts the next possible words using NLP and probabilistic language modeling.  
 - [**Inner Echo (Offline AI Chatbot)**](https://github.com/rusafidt/InnerEcho-Offline-AI-Therapy-Chatbot) – Privacy-first therapy chatbot using Ollama, FastAPI, and memory store for context-aware conversations.  
