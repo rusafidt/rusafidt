@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rusafid Ahamed  
 
-🌐 **Portfolio:** [**rfdcruze.me**](https://rfdcruze.me/)
+🌐 **Portfolio:** [**rfdcruze.me**](https://rfdcruze.me/)  
 
+---
 
 💡 **AI Enthusiast | MSc in Artificial Intelligence & Machine Learning**  
 Specialized in **NLP, LLMs, and NER** with hands-on experience building intelligent systems and scalable backends.  
