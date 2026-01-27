@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Rusafid Ahamed  
 
-<a href="https://rfdcruze.me/" target="_blank" rel="noopener noreferrer">
-🌐 Portfolio
-</a>
+🌐 **Portfolio:** [**rfdcruze.me**](https://rfdcruze.me/)
 
 ---
 
