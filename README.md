@@ -12,7 +12,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ### 🛠️ Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20(Proficient)-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -26,8 +26,8 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 **AI / ML:**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B3C5D?logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1A1A1A?logo=pytorch&logoColor=EE4C2C)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
-![NER](https://img.shields.io/badge/NER-6A5ACD?logo=databricks&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5A67D8?logo=spacy&logoColor=white)
+![NER](https://img.shields.io/badge/NER-7C3AED?logo=spacy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
@@ -42,7 +42,7 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-003545?logo=databricks&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-003545?logo=amazondynamodb&logoColor=white)
 
 ---
 
