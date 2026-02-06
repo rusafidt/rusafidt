@@ -10,13 +10,24 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** Python(Proficient), JavaScript , Java, Angular, TypeScript, C, C++, React, Next.js  
-**AI/ML:** LLMs (Ollama, LangChain), NLP, Named Entity Recognition (NER), Machine Learning, Deep Learning  
-**Frameworks:** FastAPI, Angular, Scikit, PyTorch  
-**Databases:** MongoDB, MySQL, NoSQL  
-**Tools:** Docker, Kubernetes, Git  
+
+**Languages:**  
+🐍 Python (Proficient) · 🟨 JavaScript · ☕ Java · 🅰️ Angular · 🔷 TypeScript · 💻 C · 💾 C++ · ⚛️ React · ⏭️ Next.js  
+
+**AI / ML:**  
+🤖 LLMs (Ollama, LangChain) · 🧠 NLP · 🏷️ NER · 📊 Machine Learning · 🔬 Deep Learning  
+
+**Frameworks:**  
+⚡ FastAPI · 🅰️ Angular · 📈 Scikit-learn · 🔥 PyTorch  
+
+**Databases:**  
+🍃 MongoDB · 🐬 MySQL · 🗄️ NoSQL  
+
+**Tools:**  
+🐳 Docker · ☸️ Kubernetes · 🌿 Git    
 
 ---
+
 ### 🌟 Featured Projects  
 - [**Machine Learning–Based Land Price Prediction**](https://github.com/rusafidt/Land-Price-Prediction-ML) - A machine learning project that estimates land prices using Random Forest regression and real-world location data.   
 - [**Multitool-Agentic-QA-Service**](https://github.com/rusafidt/Multitool-Agentic-QA-Service) – A compact, production-ready agentic QA service showcasing explicit tool choice, parallel execution, robustness, and cited, grounded answers.    
