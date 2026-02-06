@@ -60,6 +60,12 @@ Specialized in **NLP, LLMs, and NER** with hands-on experience building intellig
 
 ---
 
+## 🐍 Contribution Activity
+
+![Contribution Snake](https://github.com/rusafidt/rusafidt/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📌 Current Focus  
 🔹 Advancing in **LLM applications** for real-world tasks.  
 🔹 Researching and building systems with **NLP & NER** as well **Agentic Systems**.  
